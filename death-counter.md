@@ -1,11 +1,11 @@
 ---
-title: Page Template
-description: This is a short Template of How a Page should be written!
+title: pwnedCounter - Death Counter (by pwnyy)
+description: Set a death counter for each game 
 published: true
-date: 2022-11-20T07:16:07.032Z
+date: 2023-01-14T07:16:07.032Z
 tags: 
 editor: markdown
-dateCreated: 2022-07-01T00:18:30.446Z
+dateCreated: 2023-01-14T00:18:30.446Z
 ---
 
 > Page Title and Description Go in the Page Settings. Not on the Page

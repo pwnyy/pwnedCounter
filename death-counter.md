@@ -28,7 +28,7 @@ TlM0RR+LCAAAAAAABADtfXlvW0mS5/8L7Hfg1KIxu+jO6ncfDcwAEq2DsqwqXaTEqUEhr0fSfCQ1IimJ
 ```
 
 #Installation
-In Streamer.bot in select `Import` from the top left.
+>In Streamer.bot in select `Import` from the top left.
 Copy the `Import Code` and paste it into the `Import String`.
 
 

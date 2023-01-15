@@ -41,7 +41,7 @@ Copy the `Import Code` and paste it into the `Import String`.
 # Contributors
 > This is where you can credit yourself and anyone you feel deserves a credit
  ```
- - [UserName1](https://www.twitch.tv/Username1){.twitch}
+ - [pwnyy](https://www.twitch.tv/pwnyytv){.twitch}
  - [UserName2](https://www.youtube.com/Username2){.youtube}
  {.contributors}
  ```
